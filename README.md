@@ -302,7 +302,9 @@ tui有4中窗口模式分别是
 	register 寄存器窗口
 	
 详细的说明:https://sourceware.org/gdb/current/onlinedocs/gdb/TUI.html#TUI
+
 这个时候想查看源代码可以用list 也可以用方向键
+
 首先先将窗口的焦点设置到源代码窗口上
 
 	focus src
